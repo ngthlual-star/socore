@@ -14,7 +14,7 @@ Plugin được phát triển bởi **Socust Network** với mục tiêu tạo m
 | Phiên bản | 1.0.0-BETA |
 | Tác giả | Socust Network |
 | Nền tảng | Bukkit / Spigot / Paper, BungeeCord, Velocity |
-| Phiên bản hỗ trợ | Minecraft 1.8 → 1.26.x |
+| Phiên bản hỗ trợ | Minecraft 1.8 → 26.x |
 | Trạng thái | Đang phát triển, có thể còn lỗi |
 
 ---
